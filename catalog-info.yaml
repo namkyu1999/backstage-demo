@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: backstage-test
+  description: An example of a Backstage application.
+  # Example for optional annotations
+  annotations:
+    litmuschaos.io/project-id: 6bbbff7f-bb20-4e7e-8d48-3ee7db3c7978
+spec:
+  type: website
+  owner: john@example.com
+  lifecycle: experimental
