@@ -7,6 +7,6 @@ metadata:
   annotations:
     litmuschaos.io/project-id: 63e1c359-5987-4265-ac9f-92de74c89368
 spec:
-  type: website
+  type: service
   owner: john@example.com
   lifecycle: experimental
