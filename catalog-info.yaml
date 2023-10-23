@@ -5,7 +5,7 @@ metadata:
   description: An example of a Backstage application.
   # Example for optional annotations
   annotations:
-    litmuschaos.io/project-id: e0f5444d-5829-4342-881c-60e9188a82b3
+    litmuschaos.io/project-id: fcc9c7a0-c2f6-4a92-a6ec-ca10cbc71889
 spec:
   type: service
   owner: john@example.com
